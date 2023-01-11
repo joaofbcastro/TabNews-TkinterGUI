@@ -5,7 +5,7 @@ Um projeto simples de um GUI construido com a biblioteca nativa do python Tkinte
 
 ## Screenshots
 
-![App Screenshot](https://i.imgur.com/BG7ISXp.png?text=App+Screenshot+Here)
+![App Screenshot](https://i.imgur.com/BG7ISXp.png "App Screenshot")
 
 
 ## Rodando localmente
