@@ -15,13 +15,13 @@ Subentendendo que você já tem o [Python](https://www.python.org/downloads/) in
 Clonando o projeto
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/joaofbcastro/TabNews-TkinterGUI.git
 ```
 
 Entrando na pasta do projeto
 
 ```bash
-  cd my-project
+  cd TabNews-TkinterGUI
 ```
 
 Instalando as dependências
